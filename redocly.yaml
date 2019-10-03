@@ -1,7 +1,7 @@
 specFileName: openapi-3.0.yaml
 apiTitle: Consumer Complaint Database
 splitSpec: false
-codeSamples: true
+codeSamples: false
 swaggerUI: true
 travis: false
 oasVersion: 3.0.0
