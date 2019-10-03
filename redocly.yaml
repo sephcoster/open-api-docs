@@ -1,7 +1,7 @@
-specFileName: swagger-config.yaml
+specFileName: openapi-3.0.yaml
 apiTitle: Consumer Complaint Database
 splitSpec: false
 codeSamples: true
 swaggerUI: true
 travis: false
-oasVersion: '2.0'
+oasVersion: 3.0.0
