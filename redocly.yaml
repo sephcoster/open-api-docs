@@ -1,4 +1,4 @@
-specFileName: openapi-3.0.yaml
+specFileName: openapi.json
 apiTitle: Consumer Complaint Database
 splitSpec: false
 codeSamples: true
